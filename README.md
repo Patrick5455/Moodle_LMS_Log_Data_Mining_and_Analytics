@@ -25,4 +25,4 @@ Moodle allows for extending and tailoring learning environments using community-
 
 #### Production:
 
-- (Analytics Dashboard)[https://datastudio.google.com/s/s2nHRE0OBlQ]
+- [Analytics Dashboard](https://datastudio.google.com/s/s2nHRE0OBlQ)
