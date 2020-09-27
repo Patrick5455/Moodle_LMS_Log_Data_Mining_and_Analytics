@@ -22,3 +22,7 @@ Moodle allows for extending and tailoring learning environments using community-
 > Build a dashbaord to visually represent the generated insights via Tablaeu
 
 > Build a model to help identify potential struggling students as well as successful ones
+
+#### Production:
+
+- (https://datastudio.google.com/s/s2nHRE0OBlQ)[Analytics Dashboard]
